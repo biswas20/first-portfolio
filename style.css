@@ -87,4 +87,5 @@ footer{
 }
 .footer-content p{
     text-align: center;
+    margin-bottom: 0!important;
 }
