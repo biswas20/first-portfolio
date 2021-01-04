@@ -17,9 +17,9 @@ h2{
 h3{
     margin-bottom: 10px;
 }
-/* p{
+p{
     margin-bottom: 20px;
-} */
+}
 .orange-highlight{
 color:orange;
 font-size: 32px;
@@ -85,6 +85,6 @@ footer{
     padding: 10px 0px;
     background: lightseagreen;
 }
-footer p{
+.footer-content p{
     text-align: center;
 }
